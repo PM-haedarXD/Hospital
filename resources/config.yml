@@ -1,0 +1,6 @@
+hospital_location: null
+bed_location: null
+radius: 10
+hospital_time: 50
+sleep_time: 10
+sick_time: 10

@@ -1,0 +1,15 @@
+name: Hospital
+main: haedarXD\Hospital\Hospital
+version: 1.0.0
+api: 5.0.0
+author: haedarXD
+
+commands:
+  sethospital:
+    permission: hospital.admin
+  setbedh:
+    permission: hospital.admin
+
+permissions:
+  hospital.admin:
+    default: op
